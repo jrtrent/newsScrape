@@ -1,0 +1,23 @@
+body {
+    background-image: url("../assets/Images/bundle.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    
+}
+#articles {
+    background-color: whitesmoke;
+    
+}
+
+.navbar navbar-nav {
+    background-color: lightblue;
+    border: 2px;
+    border-color: white;
+    align-items: right;
+}
+
+        
+        
+    
+
